@@ -1,6 +1,6 @@
 {
   "name": "available-image",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "intro component",
   "files": [
     "demo/",
@@ -61,5 +61,5 @@
       "url": "https://fusion.alibaba-inc.com/api/v1/sites/1813/materials"
     }
   },
-  "homepage": "https://unpkg.com/available-image@1.0.3/build/index.html"
+  "homepage": "https://unpkg.com/available-image@1.0.4/build/index.html"
 }
