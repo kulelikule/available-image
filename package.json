@@ -48,7 +48,7 @@
   "componentConfig": {
     "name": "AvailableImage",
     "title": "获取可用的图片地址",
-    "category": "工具方法"
+    "category": "Utils"
   },
   "publishConfig": {
     "access": "public"
