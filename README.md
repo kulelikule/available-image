@@ -3,7 +3,7 @@
 available-image
 
 - 作者：千绪
-- 仓库地址：https://gitlab.alibaba-inc.com/qianxu.ljj/deep-fetch-select-field
+- 仓库地址：https://github.com/kulelikule/available-image
 
 Get an available image address
 * 📦 0.7kb mini library
